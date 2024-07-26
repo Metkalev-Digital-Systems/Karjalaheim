@@ -3,6 +3,4 @@
 <h1>©️Metkalev Digital Systems </h1>
 </div>
 
-<h3>Добавить Администратора</h3>
-
-    ts-node src/Scripts/Admin.create.script.ts
+<h3>Добро пожаловать на наш развлекательный проект</h3>
