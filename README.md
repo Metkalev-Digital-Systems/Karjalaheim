@@ -5,6 +5,7 @@
 <h3>
   <p>Добро пожаловать на наш развлекательный проект</p>
   <p>Проект представляет собой общий сервер для игры в Valheim</p>
+  <p>пароль - Karjalaheim-cool-viking!</p>
 </h3>
 
   <h1>©️Metkalev Digital Systems </h1>
